@@ -3,7 +3,8 @@
   <img src="https://cdn.discordapp.com/avatars/813756571842248754/57a62e285f1cac1afd530bf25715003e.png?size=256" />
 </div>
 
-
+[Invite me!](https://dsc.gg/dankgamer) <br />
+[Vote on Top.GG](https://top.gg/bot/813756571842248754)
 ## Description
 
 A meme discord bot inspired by [Dank Memer](https://github.com/dankmemer)
