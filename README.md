@@ -4,7 +4,8 @@
 </div>
 
 [Invite me!](https://dsc.gg/dankgamer) <br />
-[Vote on Top.GG](https://top.gg/bot/813756571842248754)
+[Vote on Top.GG](https://top.gg/bot/813756571842248754) <br />
+[Privacy Information](https://dank-gamer.github.io/privacy/)
 ## Description
 
 A meme discord bot inspired by [Dank Memer](https://github.com/dankmemer)
